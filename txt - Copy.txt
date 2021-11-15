@@ -1,0 +1,26 @@
+General interview questions
+
+1.Tell me about yourself.
+2.How did you learn about this job opening?
+3.What do you know about our company?
+4.How will you benefit our company?
+5.How are your skills related to what's required for this job?
+6.Tell me about your greatest strength.
+7.What do you consider your greatest weakness?
+8.What are some of your career goals?
+9.How do your values relate to our company mission?
+10.Are there any questions you would like to ask me?
+
+Questions about background and experience
+
+1.What degrees do you have?
+2.How would you describe your skill level in this field?
+3.Why do you want to work as a Linux administrator?
+4.What are some of your professional accomplishments?
+5.How did you help your past organization achieve goals?
+6.Do you have any career goals?
+7.Do you have any goals to continue your education in the future?
+8.Did you complete or participate in any industry-related projects during your education?
+9.How can you develop skills you might not have?
+10.Where do you see yourself in five years? In 10 years?
+
